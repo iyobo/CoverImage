@@ -1,6 +1,6 @@
 {
   "name": "uniform-image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A light React component for quickly displaying divs with background images for uniformity reasons",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -26,8 +26,7 @@
   ],
   "author": "Iyobo Eki",
   "license": "MIT",
-  "dependencies": {
-  },
+  "dependencies": {},
   "peerDependencies": {
     "react": "^16.4.0"
   },
