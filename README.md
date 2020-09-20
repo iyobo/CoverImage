@@ -1,4 +1,4 @@
-# CoverImage
+# Uniform-Image
 
 A simple component to quickly display divs with image backgrounds for uniformity.
 
@@ -6,15 +6,15 @@ Layman speak: This component will always crop images to fit a given dimension.
 Written in TypeScript, so easy to see expected props.
 
 ## To install
-`npm i coverimage` or `yarn add coverimage`
+`npm i uniform-image` or `yarn add uniform-image`
 
 ## How to Use
 
 ```$typescript
-import CoverImage from 'coverimage';
+import Image from 'uniform-image';
 const myComponent = ()=>{
     const someImagePath = '...'
-    return <CoverImage imageUrl={someImagePath} />
+    return <Image imageUrl={someImagePath} />
 }
 ```
 
