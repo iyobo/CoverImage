@@ -1,5 +1,5 @@
 {
-  "name": "@iyobo/coverimage",
+  "name": "uniform-image",
   "version": "1.0.0",
   "description": "A light React component for quickly displaying divs with background images for uniformity reasons",
   "main": "dist/index.js",
