@@ -26,13 +26,10 @@
   ],
   "author": "Iyobo Eki",
   "license": "MIT",
-  "dependencies": {},
-  "peerDependencies": {
-    "react": "^16.4.0"
-  },
+  "peerDependencies": {},
   "devDependencies": {
+    "react": "^16.4.0",
     "tslint": "^5.18.0",
-    "typescript": "^3.5.3",
-    "react": "^16.4.0"
+    "typescript": "^3.5.3"
   }
 }
